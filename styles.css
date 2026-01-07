@@ -4,6 +4,8 @@ body{
     flex-direction: column; 
     justify-content: center;
     align-items: center; 
+    margin: 0;
+    padding: 0;
 }
 
 .loc{
@@ -61,5 +63,15 @@ body{
 .store{
     left: 20%;
 }
+
+section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: auto;
+}
+
+
+
 
 
